@@ -1,0 +1,8 @@
+## Welcome
+Welcome to my profile. I like programing and do it a lot in my free time.
+I have done a few projects so far. Here is a quick list of them:
+
+- Discord botlist (https://www.motiondevelopment.top)
+- Free image hosting (https://wants-to.party)
+- Rick roll generator (https://r.mtdv.me)
+**More to come soon!**
