@@ -10,4 +10,4 @@ I have done a few projects so far. Here is a quick list of them:
 <br>
 
 ### Contact me
-If you like to contact me you can contact me on discord [Tech#8030](https://discord.com/users/613792809895591937) or by email [tech@motiondevelopment.top](mailto:tech@motiondevelopment.top).
+If you like to contact me you can contact me on discord [Tech#8287](https://discord.com/users/570020287735660547) or by email [tech@motiondevelopment.top](mailto:tech@motiondevelopment.top).
